@@ -37,7 +37,7 @@ A machine learning–based prototype designed to help women find clinical trials
 
 ## 👥 Team
 
-- **Tirna Deb** — Astrophysicist + Data Scientist (project lead)
+- **Tirna Deb** — Astrophysicist + Data Scientist (data science lead)
 - **Melinda Mastan**, **Suci Ardini Widyaningsih**, **Moomtahina Fatima**, **Anusha Senapati** — clinical & data experts
 
 ## 🧠 Inspired By
